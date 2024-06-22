@@ -1,4 +1,4 @@
-# Evaluación de Modelos de Clasificación para Diagnósticos Médicos en Datos de Atención en Salud
+# Proyecto Final IA-1 UIS
 
 ![Banner](banner-ia.png)
 
