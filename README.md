@@ -17,6 +17,6 @@ Modelos:
 - Red Neuronal Artificial (6 capas ocultas, 10, 20, 30 epochs)
 
 Enlaces:
-- Video: [Enlace al video de demostración](enlace-al-video)
+- Video: [Enlace al video de demostración](https://youtu.be/Sz0V4f4BuKk)
 - Repositorio: [Repositorio principal](https://github.com/DiegoGomez21/proyecto_IA_atenciones_medicas)
 
