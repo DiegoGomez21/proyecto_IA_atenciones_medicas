@@ -19,4 +19,4 @@ Modelos:
 Enlaces:
 - Video: [Enlace al video de demostración](https://youtu.be/Sz0V4f4BuKk)
 - Repositorio: [Repositorio principal](https://github.com/DiegoGomez21/proyecto_IA_atenciones_medicas)
-
+- Código: [Codigo](https://colab.research.google.com/drive/1mJ6ZDGb1-BsWsVKPp8Y_nQo8nXeJJb2L)
